@@ -1,5 +1,6 @@
-/*
-使用蒙特卡罗算法计算出的π的值
+/**
+* 使用蒙特卡罗算法计算出的π的值
+* 文章来源： http://blog.csdn.net/himulakensin/article/details/8478224
 */
 
 #include <stdlib.h> 
