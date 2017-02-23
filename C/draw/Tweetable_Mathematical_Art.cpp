@@ -1,6 +1,6 @@
 /**
-* 作者：烧茄子
 * 链接：https://www.zhihu.com/question/30262900/answer/48741026
+* 链接：http://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art
 * 来源：知乎
 * 每个头文件就是每个参赛者的命名。 更改引用即可。 当前文件夹下还有图片的展示
 */
